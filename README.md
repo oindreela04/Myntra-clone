@@ -1,2 +1,2 @@
 # Myntra-clone
-I tried to create a clone website for myntra using html &amp; css
+I tried to create a clone website of myntra using html &amp; css
